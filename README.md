@@ -155,9 +155,9 @@ Admix supports many publicly available admixture models. All the calculator file
 | `AncientNearEast13` | Ancient Near East K13 | [Link](http://www.anthrogenica.com/showthread.php?8193-ancient-DNA-in-the-Gedrosia-Near-East-Neolithic-K13) |
 | `K7AMI` | Eurogenes K7 AMI | [Link](http://www.anthrogenica.com/showthread.php?4548-Upcoming-DIY-Eurogenes-K7-amp-K8-Calculator-amp-Oracles-for-tracking-E-Asian-amp-ASI) |
 | `K8AMI` | Eurogenes K8 AMI | [Link](http://www.anthrogenica.com/showthread.php?4548-Upcoming-DIY-Eurogenes-K7-amp-K8-Calculator-amp-Oracles-for-tracking-E-Asian-amp-ASI) |
-| `MDLPK27` | MDLP K27 | [Link](http://www.anthrogenica.com/showthread.php?4557-Post-MDLP-K27-Results) |
+| `MDLPK27` | MDLP K27 | [Link](https://genoplot.com/discussions/topic/24553/post-mdlp-k27-results) |
 | `puntDNAL` | puntDNAL K12 Ancient World | [Link](http://www.anthrogenica.com/showthread.php?8034-PuntDNAL-K12-Ancient-World-Results) |
-| `K47` | LM Genetics K47 | [Link](https://anthrogenica.com/showthread.php?12788-New-K30-K47-World-Calculator) |
+| `K47` | LM Genetics K47 | [Link](https://genoplot.com/discussions/topic/26867/new-k30-k47-world-calculator) |
 | `K7M1` | Tolan K7M1 | [Link](http://gen3553.pagesperso-orange.fr/ADN/Calc.htm) |
 | `K13M2` | Tolan K13M2 | [Link](http://gen3553.pagesperso-orange.fr/ADN/Calc.htm) |
 | `K14M1` | Tolan K14M1 | [Link](http://gen3553.pagesperso-orange.fr/ADN/Calc.htm) |
